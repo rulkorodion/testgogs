@@ -28,6 +28,10 @@ namespace podgEkz
         private void ButtonBack_Click(object sender, RoutedEventArgs e)
         {
             if (MainFrame.CanGoBack) MainFrame.GoBack();
+            if (MainFrame.CanGoBack)
+            {
+                //fsfsdfsfsfsfsf
+            }
         }
     }
 }
