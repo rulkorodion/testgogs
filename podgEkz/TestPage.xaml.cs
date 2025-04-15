@@ -28,7 +28,7 @@ namespace podgEkz
 
         private void ButtonAdd_Click(object sender, RoutedEventArgs e)
         {
-
+            
         }
 
         private void ButtonDel_Click(object sender, RoutedEventArgs e)
